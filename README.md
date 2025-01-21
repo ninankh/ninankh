@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 -->
 
 ![snake gif](https://github.com/ninankh/ninankh/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ninankh/ninankh/blob/output/github-snake-dark.svg)
