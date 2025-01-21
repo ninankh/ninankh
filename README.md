@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning STM32
 -->
 
-![snake gif]([https://github.com/ninankh/ninankh/blob/output/github-snake-dark.svg](https://github.com/ninankh/ninankh/blob/output/github-contribution-grid-snake-dark.svg))
+![snake gif](https://github.com/ninankh/ninankh/blob/output/github-snake-dark.svg)
