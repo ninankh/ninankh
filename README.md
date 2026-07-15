@@ -1,4 +1,4 @@
-## Hi there 👋 Its Nina Here ![cat gif](https://github.com/ninankh/ninankh/blob/main/asset/cat1.gif)
+## Hi there 👋 Its Nina Here
 
 <!--
 **ninankh/ninankh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
